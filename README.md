@@ -9,7 +9,7 @@ Motivated Frontend Developer with a BSc in Engineering, skilled in HTML, CSS, Ja
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [nayerahazem26@gmail.com](mailto:nayerahazem26@gmail.com)
 * 🚀  I'm currently working on [Classy](http://github.com/nayera540/Classy)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Angular and Node.js
 
 ### Skills
 
